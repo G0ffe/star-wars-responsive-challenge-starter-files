@@ -1,3 +1,28 @@
+header {
+	background-color: #eebb44;
+	margin-bottom: 40px;
+}
+
+header h1 {
+	font-size: 22px;
+	margin-bottom: 6px;
+}
+
+header h2 {
+	font-size: 14px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.col-3 {
+	border: 1px lightgrey solid;
+	margin-bottom: 10px;
+}
+
+.col-3 h3, .col-3 p {
+	margin-left: 15px;
+}
+
 .desktop-pic {
-	width: 200px;
+	width: 100%;
 }
